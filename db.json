@@ -1,0 +1,87 @@
+{
+  "pokemons": [{
+      "id": 1,
+      "name": "bulbasaur",
+      "type": "grass"
+    },
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "type": "grass"
+    },
+    {
+      "id": 3,
+      "name": "venusaur",
+      "type": "grass"
+    },
+    {
+      "id": 4,
+      "name": "charmander",
+      "type": "fire"
+    },
+    {
+      "id": 5,
+      "name": "charmeleon",
+      "type": "fire"
+    }, {
+      "id": 6,
+      "name": "charizard",
+      "type": "fire"
+    },
+    {
+      "id": 7,
+      "name": "squirtle",
+      "type": "water"
+    },
+    {
+      "id": 8,
+      "name": "wartortle",
+      "type": "water"
+    },
+    {
+      "id": 9,
+      "name": "caterpie",
+      "type": "bug"
+    },
+    {
+      "id": 10,
+      "name": "metapod",
+      "type": "bug"
+    },
+    {
+      "id": 11,
+      "name": "butterfree",
+      "type": "bug"
+    },
+    {
+      "id": 12,
+      "name": "weedle",
+      "type": "bug"
+    },
+    {
+      "id": 13,
+      "name": "kakuna",
+      "type": "bug"
+    },
+    {
+      "id": 14,
+      "name": "beedrill",
+      "type": "bug"
+    },
+    {
+      "id": 15,
+      "name": "pidgey",
+      "type": "flying"
+    },
+    {
+      "id": 16,
+      "name": "pidgeotto",
+      "type": "flying"
+    },
+    {
+      "id": 17,
+      "name": "pidgeot",
+      "type": "flying"
+    }
+  ]
+}
